@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+
+<html lang="en">
+<meta charset="UTF-8">
+<title>Page Title</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<body>
+
+
+<div class="">
+ <h1>This is a Heading4</h1>
+ <p>This is a paragraph.</p>
+ <p>This is another paragraph.</p>
+</div>
+
+</body>
+</html> 
