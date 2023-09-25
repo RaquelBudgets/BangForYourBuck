@@ -10,7 +10,7 @@ layout: default
 <body>
 
 
-<div class="" style="border: 1px solid black">
+<div class="" >
  <h1>Bang For Your Buck</h1>
  <p>Budgeting is power.</p>
  <p>This is another paragraph.</p>
