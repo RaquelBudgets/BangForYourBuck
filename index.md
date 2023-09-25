@@ -11,8 +11,8 @@ layout: default
 
 
 <div class="">
- <h1>This is a Heading4</h1>
- <p>This is a paragraph.</p>
+ <h1>Bang For Your Buck</h1>
+ <p>Budgeting is power.</p>
  <p>This is another paragraph.</p>
 </div>
 
